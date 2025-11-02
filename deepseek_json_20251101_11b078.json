@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "ما هي البرمجة؟",
+    "answer": "البرمجة هي عملية كتابة تعليمات وأوامر لأجهزة الكمبيوتر لتنفيذ مهام محددة وحل المشكلات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 2,
+    "question": "What is programming?",
+    "answer": "Programming is the process of writing instructions and commands for computers to perform specific tasks and solve problems.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 3,
+    "question": "ما هو لغة البرمجة؟",
+    "answer": "لغة البرمجة هي مجموعة من القواعد والصياغة المستخدمة لكتابة تعليمات الكمبيوتر، مثل Python أو Java أو C++.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 4,
+    "question": "What is a programming language?",
+    "answer": "A programming language is a set of rules and syntax used to write computer instructions, such as Python, Java, or C++.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 5,
+    "question": "ما هو الكود المصدري؟",
+    "answer": "الكود المصدري هو النص الأصلي الذي يكتبه المبرمج بلغة برمجة معينة قبل تحويله إلى لغة الآلة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 6,
+    "question": "What is source code?",
+    "answer": "Source code is the original text written by a programmer in a specific programming language before being converted to machine language.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 7,
+    "question": "ما هو المترجم؟",
+    "answer": "المترجم هو برنامج يحول الكود المصدري المكتوب بلغة برمجة عالية المستوى إلى لغة آلة يمكن للكمبيوتر تنفيذها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 8,
+    "question": "What is a compiler?",
+    "answer": "A compiler is a program that converts source code written in a high-level programming language into machine language that a computer can execute.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 9,
+    "question": "ما هو المفسر؟",
+    "answer": "المفسر هو برنامج ينفذ تعليمات الكود المصدري مباشرة سطراً سطراً دون الحاجة لتحويله مسبقاً إلى لغة آلة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 10,
+    "question": "What is an interpreter?",
+    "answer": "An interpreter is a program that executes source code instructions directly line by line without needing to convert it to machine language first.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 11,
+    "question": "ما هو المتغير في البرمجة؟",
+    "answer": "المتغير هو حاوية تخزين في الذاكرة تحمل اسم ويمكنها حفظ قيم البيانات التي يمكن تغييرها أثناء تنفيذ البرنامج.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 12,
+    "question": "What is a variable in programming?",
+    "answer": "A variable is a storage container in memory with a name that can hold data values which can be changed during program execution.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 13,
+    "question": "ما هي أنواع البيانات؟",
+    "answer": "أنواع البيانات هي تصنيفات للقيم التي يمكن تخزينها في المتغيرات، مثل الأعداد، النصوص، القيم المنطقية، وغيرها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 14,
+    "question": "What are data types?",
+    "answer": "Data types are classifications of values that can be stored in variables, such as numbers, text, boolean values, and others.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 15,
+    "question": "ما هو العامل في البرمجة؟",
+    "answer": "العامل هو رمز يمثل عملية حسابية أو منطقية أو مقارنة بين القيم، مثل + للجمع أو == للمساواة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 16,
+    "question": "What is an operator in programming?",
+    "answer": "An operator is a symbol that represents an arithmetic, logical, or comparison operation between values, such as + for addition or == for equality.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 17,
+    "question": "ما هي الجملة الشرطية؟",
+    "answer": "الجملة الشرطية هي بناء برمجي ينفذ كتلة من التعليمات فقط إذا تحقق شرط معين.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 18,
+    "question": "What is a conditional statement?",
+    "answer": "A conditional statement is a programming construct that executes a block of instructions only if a specific condition is met.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 19,
+    "question": "ما هي الحلقة التكرارية؟",
+    "answer": "الحلقة التكرارية هي بناء برمجي يكرر تنفيذ كتلة من التعليمات عدة مرات حتى يتحقق شرط معين.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 20,
+    "question": "What is a loop?",
+    "answer": "A loop is a programming construct that repeatedly executes a block of instructions until a specific condition is met.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 21,
+    "question": "ما هي الدالة؟",
+    "answer": "الدالة هي كتلة من التعليمات لها اسم محدد يمكن استدعاؤها من أي مكان في البرنامج لأداء مهمة معينة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 22,
+    "question": "What is a function?",
+    "answer": "A function is a named block of instructions that can be called from anywhere in the program to perform a specific task.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 23,
+    "question": "ما هي الخوارزمية؟",
+    "answer": "الخوارزمية هي مجموعة من الخطوات المحددة والمنطقية لحل مشكلة أو إنجاز مهمة معينة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 24,
+    "question": "What is an algorithm?",
+    "answer": "An algorithm is a set of defined, logical steps to solve a problem or accomplish a specific task.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 25,
+    "question": "ما هو تصحيح الأخطاء؟",
+    "answer": "تصحيح الأخطاء هو عملية العثور على الأخطاء في الكود وإصلاحها لضمان عمل البرنامج بشكل صحيح.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 26,
+    "question": "What is debugging?",
+    "answer": "Debugging is the process of finding and fixing errors in code to ensure the program works correctly.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 27,
+    "question": "ما هو البرمجة كائنية التوجه؟",
+    "answer": "البرمجة كائنية التوجه هي نموذج برمجة يعتمد على مفهوم الكائنات التي تحتوي على بيانات ووظائف مرتبطة بها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 28,
+    "question": "What is object-oriented programming?",
+    "answer": "Object-oriented programming is a programming model based on the concept of objects that contain data and associated functions.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 29,
+    "question": "ما هو الكائن في البرمجة؟",
+    "answer": "الكائن هو نسخة من صنف يحتوي على بيانات (خصائص) ووظائف (طرق) تعمل على هذه البيانات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 30,
+    "question": "What is an object in programming?",
+    "answer": "An object is an instance of a class that contains data (properties) and functions (methods) that operate on that data.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 31,
+    "question": "ما هو الصنف؟",
+    "answer": "الصنف هو قالب أو مخطط يحدد الخصائص والسلوكيات التي ستمتلكها الكائنات المنتمية إليه.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 32,
+    "question": "What is a class?",
+    "answer": "A class is a template or blueprint that defines the properties and behaviors that objects belonging to it will have.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 33,
+    "question": "ما هو الوراثة في البرمجة؟",
+    "answer": "الوراثة هي ميزة في البرمجة كائنية التوجه تسمح لصنف بوراثة خصائص ووظائف من صنف آخر.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 34,
+    "question": "What is inheritance in programming?",
+    "answer": "Inheritance is a feature in object-oriented programming that allows a class to inherit properties and functions from another class.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 35,
+    "question": "ما هو تعدد الأشكال؟",
+    "answer": "تعدد الأشكال هو مبدأ يسمح للدوال أو الأساليب بالتصرف بشكل مختلف بناءً على الكائن الذي تستدعى عليه.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 36,
+    "question": "What is polymorphism?",
+    "answer": "Polymorphism is a principle that allows functions or methods to behave differently based on the object they are called upon.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 37,
+    "question": "ما هو التجريد؟",
+    "answer": "التجريد هو مبدأ يخفي التفاصيل المعقدة ويظهر فقط الوظائف الأساسية للمستخدم.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 38,
+    "question": "What is abstraction?",
+    "answer": "Abstraction is a principle that hides complex details and shows only essential functions to the user.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 39,
+    "question": "ما هو التغليف؟",
+    "answer": "التغليف هو مبدأ يجمع بين البيانات والوظائف التي تعمل عليها في وحدة واحدة ويخفي تفاصيل التنفيذ.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 40,
+    "question": "What is encapsulation?",
+    "answer": "Encapsulation is a principle that bundles data and the functions that operate on it into a single unit and hides implementation details.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 41,
+    "question": "ما هي لغة Python؟",
+    "answer": "Python هي لغة برمجة عالية المستوى سهلة التعلم، تستخدم في تطوير الويب، تحليل البيانات، الذكاء الاصطناعي، وغيرها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 42,
+    "question": "What is Python?",
+    "answer": "Python is a high-level programming language that is easy to learn, used in web development, data analysis, artificial intelligence, and more.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 43,
+    "question": "ما هي لغة JavaScript؟",
+    "answer": "JavaScript هي لغة برمجة تستخدم principalmente لتطوير الواجهات الأمامية للتطبيقات والمواقع الإلكترونية.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 44,
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a programming language used primarily for front-end development of applications and websites.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 45,
+    "question": "ما هي لغة Java؟",
+    "answer": "Java هي لغة برمجة كائنية التوجه تستخدم على نطاق واسع في تطبيقات المؤسسات وتطوير تطبيقات Android.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 46,
+    "question": "What is Java?",
+    "answer": "Java is an object-oriented programming language widely used in enterprise applications and Android app development.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 47,
+    "question": "ما هي لغة C++؟",
+    "answer": "C++ هي لغة برمجة متعددة الاستخدامات تجمع بين البرمجة الإجرائية والبرمجة كائنية التوجه.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 48,
+    "question": "What is C++?",
+    "answer": "C++ is a versatile programming language that combines procedural programming and object-oriented programming.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 49,
+    "question": "ما هي لغة HTML؟",
+    "answer": "HTML هي لغة ترميز تستخدم لإنشاء هيكل وصفحات الويب، وليست لغة برمجة بالمعنى التقليدي.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 50,
+    "question": "What is HTML?",
+    "answer": "HTML is a markup language used to create the structure of web pages, not a programming language in the traditional sense.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 51,
+    "question": "ما هي لغة CSS؟",
+    "answer": "CSS هي لغة تستخدم لوصف وتنسيق مظهر وترتيب عناصر صفحات الويب.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 52,
+    "question": "What is CSS?",
+    "answer": "CSS is a language used to describe and format the appearance and layout of web page elements.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 53,
+    "question": "ما هي قاعدة البيانات؟",
+    "answer": "قاعدة البيانات هي مجموعة منظمة من البيانات المخزنة إلكترونياً والتي يمكن الوصول إليها وإدارتها بسهولة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 54,
+    "question": "What is a database?",
+    "answer": "A database is an organized collection of data stored electronically that can be easily accessed and managed.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 55,
+    "question": "ما هو SQL؟",
+    "answer": "SQL هي لغة استعلام هيكلية تستخدام للتعامل مع قواعد البيانات العلائقية وإدارتها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 56,
+    "question": "What is SQL?",
+    "answer": "SQL is a structured query language used to interact with and manage relational databases.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 57,
+    "question": "ما هو Git؟",
+    "answer": "Git هو نظام تحكم في النسخ يستخدم لتتبع التغييرات في ملفات الكود المصدري أثناء تطوير البرمجيات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 58,
+    "question": "What is Git?",
+    "answer": "Git is a version control system used to track changes in source code files during software development.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 59,
+    "question": "ما هو GitHub؟",
+    "answer": "GitHub هو منصة استضافة على الإنترنت لمشاريع البرمجية التي تستخدم نظام Git للتحكم في النسخ.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 60,
+    "question": "What is GitHub?",
+    "answer": "GitHub is an online hosting platform for software projects that use Git for version control.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 61,
+    "question": "ما هو الـ API؟",
+    "answer": "واجهة برمجة التطبيقات (API) هي مجموعة من القواعد والبروتوكولات تسمح للتطبيقات بالتواصل مع بعضها البعض.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 62,
+    "question": "What is an API?",
+    "answer": "An Application Programming Interface (API) is a set of rules and protocols that allow applications to communicate with each other.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 63,
+    "question": "ما هو إطار العمل؟",
+    "answer": "إطار العمل هو منصة توفر هياكل أساسية جاهزة لتطوير البرمجيات، مما يسهل عملية البرمجة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 64,
+    "question": "What is a framework?",
+    "answer": "A framework is a platform that provides ready-made basic structures for software development, making programming easier.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 65,
+    "question": "ما هو المكتبة في البرمجة؟",
+    "answer": "المكتبة هي مجموعة من الدوال والبرامج الجاهزة التي يمكن للمبرمجين استخدامها في مشاريعهم.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 66,
+    "question": "What is a library in programming?",
+    "answer": "A library is a collection of ready-made functions and programs that programmers can use in their projects.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 67,
+    "question": "ما هو تطوير الواجهة الأمامية؟",
+    "answer": "تطوير الواجهة الأمامية هو إنشاء الجزء من التطبيق أو الموقع الذي يتفاعل معه المستخدمون مباشرة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 68,
+    "question": "What is front-end development?",
+    "answer": "Front-end development is creating the part of an application or website that users directly interact with.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 69,
+    "question": "ما هو تطوير الواجهة الخلفية؟",
+    "answer": "تطوير الواجهة الخلفية هو إنشاء الجزء من التطبيق الذي يعمل على الخادم ويتعامل مع قواعد البيانات والمنطق.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 70,
+    "question": "What is back-end development?",
+    "answer": "Back-end development is creating the part of an application that runs on the server and handles databases and logic.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 71,
+    "question": "ما هو التطوير الكامل؟",
+    "answer": "التطوير الكامل هو تطوير كل من الواجهة الأمامية والواجهة الخلفية للتطبيق.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 72,
+    "question": "What is full-stack development?",
+    "answer": "Full-stack development is developing both the front-end and back-end of an application.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 73,
+    "question": "ما هو الخادم؟",
+    "answer": "الخادم هو جهاز كمبيوتر أو برنامج يوفر خدمات أو موارد لأجهزة أو برامج أخرى تسمى العملاء.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 74,
+    "question": "What is a server?",
+    "answer": "A server is a computer or program that provides services or resources to other computers or programs called clients.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 75,
+    "question": "ما هو العميل؟",
+    "answer": "العميل هو جهاز أو برنامج يطلب خدمات أو موارد من الخادم.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 76,
+    "question": "What is a client?",
+    "answer": "A client is a device or program that requests services or resources from a server.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 77,
+    "question": "ما هو البرنامج الوسيط؟",
+    "answer": "البرنامج الوسيط هو برنامج يعمل كوسيط بين التطبيقات المختلفة لتبادل البيانات والخدمات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 78,
+    "question": "What is middleware?",
+    "answer": "Middleware is software that acts as an intermediary between different applications to exchange data and services.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 79,
+    "question": "ما هو نظام التشغيل؟",
+    "answer": "نظام التشغيل هو برنامج يدير موارد الجهاز ويوفر خدمات للبرامج التطبيقية.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 80,
+    "question": "What is an operating system?",
+    "answer": "An operating system is software that manages device resources and provides services to application programs.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 81,
+    "question": "ما هي البرمجة الوظيفية؟",
+    "answer": "البرمجة الوظيفية هي نموذج برمجة يركز على استخدام الدوال الرياضية وتجنب تغيير الحالة والبيانات القابلة للتغيير.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 82,
+    "question": "What is functional programming?",
+    "answer": "Functional programming is a programming paradigm that focuses on using mathematical functions and avoids changing state and mutable data.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 83,
+    "question": "ما هي البرمجة الإجرائية؟",
+    "answer": "البرمجة الإجرائية هي نموذج برمجة يركز على الإجراءات أو الروتينات التي تنفذ مهام محددة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 84,
+    "question": "What is procedural programming?",
+    "answer": "Procedural programming is a programming paradigm that focuses on procedures or routines that perform specific tasks.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 85,
+    "question": "ما هي بنية البيانات؟",
+    "answer": "بنية البيانات هي طريقة خاصة لتنظيم وتخزين البيانات في الكمبيوتر لتمكين الوصول الفعال والتعديل.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 86,
+    "question": "What is a data structure?",
+    "answer": "A data structure is a specialized way of organizing and storing data in a computer to enable efficient access and modification.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 87,
+    "question": "ما هي المصفوفة؟",
+    "answer": "المصفوفة هي بنية بيانات تتكون من مجموعة عناصر مخزنة في مواقع ذاكرة متجاورة يمكن الوصول إليها باستخدام فهارس.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 88,
+    "question": "What is an array?",
+    "answer": "An array is a data structure consisting of a collection of elements stored in contiguous memory locations accessible using indices.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 89,
+    "question": "ما هي القائمة المرتبطة؟",
+    "answer": "القائمة المرتبطة هي بنية بيانات تتكون من عقد مرتبطة معاً بواسطة مؤشرات، حيث تشير كل عقدة إلى التالية.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 90,
+    "question": "What is a linked list?",
+    "answer": "A linked list is a data structure consisting of nodes linked together by pointers, where each node points to the next one.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 91,
+    "question": "ما هي المكدس؟",
+    "answer": "المكدس هو بنية بيانات تعمل بمبدأ last-in-first-out حيث يتم إضافة وإزالة العناصر من طرف واحد فقط.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 92,
+    "question": "What is a stack?",
+    "answer": "A stack is a data structure that operates on the last-in-first-out principle where elements are added and removed from only one end.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 93,
+    "question": "ما هي الطابور؟",
+    "answer": "الطابور هو بنية بيانات تعمل بمبدأ first-in-first-out حيث يتم إضافة العناصر من طرف وإزالتها من الطرف الآخر.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 94,
+    "question": "What is a queue?",
+    "answer": "A queue is a data structure that operates on the first-in-first-out principle where elements are added at one end and removed from the other.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 95,
+    "question": "ما هي الشجرة؟",
+    "answer": "الشجرة هي بنية بيانات هرمية تتكون من عقد مرتبطة بحيث يكون هناك عقدة جذر وعقد فرعية مرتبطة بها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 96,
+    "question": "What is a tree?",
+    "answer": "A tree is a hierarchical data structure consisting of nodes connected such that there is a root node and child nodes connected to it.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 97,
+    "question": "ما هو الرسم البياني؟",
+    "answer": "الرسم البياني هو بنية بيانات تتكون من عقد وحواف تربط بين هذه العقد لتمثيل العلاقات بينها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 98,
+    "question": "What is a graph?",
+    "answer": "A graph is a data structure consisting of nodes and edges connecting these nodes to represent relationships between them.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 99,
+    "question": "ما هي خوارزمية البحث؟",
+    "answer": "خوارزمية البحث هي طريقة منهجية للعثور على عنصر معين في مجموعة من البيانات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 100,
+    "question": "What is a search algorithm?",
+    "answer": "A search algorithm is a systematic method for finding a specific item in a collection of data.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 101,
+    "question": "ما هي خوارزمية الترتيب؟",
+    "answer": "خوارزمية الترتيب هي طريقة لإعادة ترتيب العناصر في مجموعة ما وفقاً لنظام معين (تصاعدي أو تنازلي).",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 102,
+    "question": "What is a sorting algorithm?",
+    "answer": "A sorting algorithm is a method for rearranging items in a collection according to a specific order (ascending or descending).",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 103,
+    "question": "ما هو البحث الثنائي؟",
+    "answer": "البحث الثنائي هو خوارزمية بحث فعالة تعمل على بيانات مرتبة بتقسيم المجموعة إلى نصفين في كل خطوة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 104,
+    "question": "What is binary search?",
+    "answer": "Binary search is an efficient search algorithm that works on sorted data by dividing the collection in half at each step.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 105,
+    "question": "ما هو ترتيب الفقاعات؟",
+    "answer": "ترتيب الفقاعات هو خوارزمية ترتيب بسيطة تقوم بمقارنة العناصر المجاورة وتبديلها إذا كانت في ترتيب خاطئ.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 106,
+    "question": "What is bubble sort?",
+    "answer": "Bubble sort is a simple sorting algorithm that compares adjacent elements and swaps them if they are in the wrong order.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 107,
+    "question": "ما هو التكرار؟",
+    "answer": "التكرار هو عملية تنفيذ مجموعة من التعليمات بشكل متكرر باستخدام هياكل التحكم مثل الحلقات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 108,
+    "question": "What is iteration?",
+    "answer": "Iteration is the process of repeatedly executing a set of instructions using control structures like loops.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 109,
+    "question": "ما هو الاستدعاء الذاتي؟",
+    "answer": "الاستدعاء الذاتي هو تقنية تستدعي فيها الدالة نفسها لحل مشكلة عن طريق تقسيمها إلى مشاكل أصغر.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 110,
+    "question": "What is recursion?",
+    "answer": "Recursion is a technique where a function calls itself to solve a problem by breaking it down into smaller problems.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 111,
+    "question": "ما هو المؤشر؟",
+    "answer": "المؤشر هو متغير يخزن عنوان الذاكرة لمتغير آخر بدلاً من تخزين القيمة نفسها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 112,
+    "question": "What is a pointer?",
+    "answer": "A pointer is a variable that stores the memory address of another variable instead of storing the value itself.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 113,
+    "question": "ما هو إدارة الذاكرة؟",
+    "answer": "إدارة الذاكرة هي عملية تخصيص واستخدام وتحرير ذاكرة الكمبيوتر أثناء تنفيذ البرنامج.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 114,
+    "question": "What is memory management?",
+    "answer": "Memory management is the process of allocating, using, and freeing computer memory during program execution.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 115,
+    "question": "ما هو تسرب الذاكرة؟",
+    "answer": "تسرب الذاكرة هو خطأ برمجي يحدث عندما يفشل البرنامج في تحرير الذاكرة التي لم تعد بحاجة إليها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 116,
+    "question": "What is a memory leak?",
+    "answer": "A memory leak is a software bug that occurs when a program fails to release memory that it no longer needs.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 117,
+    "question": "ما هو معالج النصوص؟",
+    "answer": "معالج النصوص هو برنامج يستخدم لتحرير وتنسيق النصوص وإنشاء المستندات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 118,
+    "question": "What is a text editor?",
+    "answer": "A text editor is a program used to edit, format text, and create documents.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 119,
+    "question": "ما هو بيئة التطوير المتكاملة؟",
+    "answer": "بيئة التطوير المتكاملة هي برنامج يوفر أدوات شاملة للمبرمجين لتطوير البرمجيات في مكان واحد.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 120,
+    "question": "What is an Integrated Development Environment?",
+    "answer": "An Integrated Development Environment (IDE) is software that provides comprehensive tools for programmers to develop software in one place.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 121,
+    "question": "ما هو Visual Studio Code؟",
+    "answer": "Visual Studio Code هو محرر نصوص خفيف وقوي مطور من قبل Microsoft، يديع العديد من لغات البرمجة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 122,
+    "question": "What is Visual Studio Code?",
+    "answer": "Visual Studio Code is a lightweight yet powerful text editor developed by Microsoft that supports many programming languages.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 123,
+    "question": "ما هو PyCharm؟",
+    "answer": "PyCharm هو بيئة تطوير متكاملة مخصصة للغة Python، يوفر العديد من الميزات لتطوير بايثون.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 124,
+    "question": "What is PyCharm?",
+    "answer": "PyCharm is an integrated development environment dedicated to the Python language, offering many features for Python development.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 125,
+    "question": "ما هو IntelliJ IDEA؟",
+    "answer": "IntelliJ IDEA هو بيئة تطوير متكاملة شائعة لتطوير تطبيقات Java، مع دعم للعديد من اللغات الأخرى.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 126,
+    "question": "What is IntelliJ IDEA?",
+    "answer": "IntelliJ IDEA is a popular integrated development environment for Java application development, with support for many other languages.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 127,
+    "question": "ما هو التطوير السريع للتطبيقات؟",
+    "answer": "التطوير السريع للتطبيقات هو منهجية تطوير برمجيات تركز على التطوير السريع للنماذج الأولية والتكرار.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 128,
+    "question": "What is Rapid Application Development?",
+    "answer": "Rapid Application Development is a software development methodology that focuses on rapid prototyping and iteration.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 129,
+    "question": "ما هو التطوير الرشيق؟",
+    "answer": "التطوير الرشيق هو منهجية تطوير برمجيات تركز على التسليم المستمر والتعاون والمرونة في متطلبات التغيير.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 130,
+    "question": "What is Agile development?",
+    "answer": "Agile development is a software development methodology that focuses on continuous delivery, collaboration, and flexibility in changing requirements.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 131,
+    "question": "ما هو سكروم؟",
+    "answer": "سكروم هو إطار عمل رشيق يستخدم لإدارة وتطوير المنتجات البرمجية المعقدة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 132,
+    "question": "What is Scrum?",
+    "answer": "Scrum is an agile framework used to manage and develop complex software products.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 133,
+    "question": "ما هو كانبان؟",
+    "answer": "كانبان هو طريقة لإدارة العمل تركز على المرئية والحد من العمل قيد التنفيذ وتحسين التدفق.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 134,
+    "question": "What is Kanban?",
+    "answer": "Kanban is a work management method that focuses on visualization, limiting work in progress, and improving flow.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 135,
+    "question": "ما هو اختبار البرمجيات؟",
+    "answer": "اختبار البرمجيات هو عملية التحقق من أن البرنامج يعمل كما هو متوقع ويخلو من الأخطاء.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 136,
+    "question": "What is software testing?",
+    "answer": "Software testing is the process of verifying that software works as expected and is free from errors.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 137,
+    "question": "ما هو الاختبار الوحدة؟",
+    "answer": "الاختبار الوحدة هو اختبار وحدات فردية من الكود (عادة دوال) للتأكد من عملها بشكل صحيح.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 138,
+    "question": "What is unit testing?",
+    "answer": "Unit testing is testing individual units of code (usually functions) to ensure they work correctly.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 139,
+    "question": "ما هو الاختبار التكامل؟",
+    "answer": "الاختبار التكامل هو اختبار كيفية عمل وحدات متعددة من الكود معاً عند دمجها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 140,
+    "question": "What is integration testing?",
+    "answer": "Integration testing is testing how multiple units of code work together when integrated.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 141,
+    "question": "ما هو الاختبار النظام؟",
+    "answer": "الاختبار النظام هو اختبار النظام بالكامل كوحدة واحدة للتأكد من تلبية المتطلبات المحددة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 142,
+    "question": "What is system testing?",
+    "answer": "System testing is testing the entire system as a single unit to ensure it meets the specified requirements.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 143,
+    "question": "ما هو الاختبار القبول؟",
+    "answer": "الاختبار القبول هو اختبار يتم لإثبات أن النظام يلبي متطلبات العميل ويجاهز للتسليم.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 144,
+    "question": "What is acceptance testing?",
+    "answer": "Acceptance testing is testing conducted to demonstrate that the system meets customer requirements and is ready for delivery.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 145,
+    "question": "ما هو TDD؟",
+    "answer": "التطوير الموجه بالاختبارات (TDD) هو منهجية تطوير برمجيات حيث تكتب الاختبارات أولاً ثم تكتب الكود لاجتيازها.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 146,
+    "question": "What is TDD?",
+    "answer": "Test-Driven Development (TDD) is a software development methodology where tests are written first, then code is written to pass them.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 147,
+    "question": "ما هو BDD؟",
+    "answer": "التطوير الموجه بالسلوك (BDD) هو منهجية تطوير تركز على سلوك النظام من منظور المستخدم.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 148,
+    "question": "What is BDD?",
+    "answer": "Behavior-Driven Development (BDD) is a development methodology that focuses on system behavior from the user's perspective.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 149,
+    "question": "ما هو CI/CD؟",
+    "answer": "التكامل المستمر/التسليم المستمر (CI/CD) هو ممارسة تكامل التغييرات البرمجية بشكل متكرر ونشرها تلقائياً.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 150,
+    "question": "What is CI/CD?",
+    "answer": "Continuous Integration/Continuous Delivery (CI/CD) is the practice of frequently integrating code changes and deploying them automatically.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 151,
+    "question": "ما هو Jenkins؟",
+    "answer": "Jenkins هو خادم تكامل مفتوح المصدر يستخدم لأتمتة أجزاء من عملية تطوير البرمجيات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 152,
+    "question": "What is Jenkins?",
+    "answer": "Jenkins is an open-source integration server used to automate parts of the software development process.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 153,
+    "question": "ما هو Docker؟",
+    "answer": "Docker هو منصة مفتوحة المصدر تستخدم حاويات البرامج لتسهيل تطوير ونشر وتشغيل التطبيقات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 154,
+    "question": "What is Docker?",
+    "answer": "Docker is an open-source platform that uses software containers to facilitate developing, deploying, and running applications.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 155,
+    "question": "ما هو Kubernetes؟",
+    "answer": "Kubernetes هو نظام مفتوح المصدر لأتمتة نشر وتوسيع وإدارة تطبيقات الحاويات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 156,
+    "question": "What is Kubernetes?",
+    "answer": "Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 157,
+    "question": "ما هو الحاوية؟",
+    "answer": "الحاوية هي وحدة برمجية خفيفة الوزن تحتوي على التطبيق وجميع تبعياته، تعمل بشكل معزول عن النظام المضيف.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 158,
+    "question": "What is a container?",
+    "answer": "A container is a lightweight software unit that contains the application and all its dependencies, running isolated from the host system.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 159,
+    "question": "ما هو التطوير منخفض الكود؟",
+    "answer": "التطوير منخفض الكود هو نهج لتطوير البرمجيات يتطلب كتابة كود يدوي أقل باستخدام واجهات مرئية وأدوات نمذجة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 160,
+    "question": "What is low-code development?",
+    "answer": "Low-code development is a software development approach that requires less manual coding using visual interfaces and modeling tools.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 161,
+    "question": "ما هو التطوير بدون كود؟",
+    "answer": "التطوير بدون كود هو نهج يسمح بإنشاء تطبيقات كاملة بدون كتابة أي كود برمجي، باستخدام واجهات سحب وإفلات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 162,
+    "question": "What is no-code development?",
+    "answer": "No-code development is an approach that allows creating complete applications without writing any code, using drag-and-drop interfaces.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 163,
+    "question": "ما هو الويب سكرابينغ؟",
+    "answer": "الويب سكرابينغ هو تقنية تستخدم لاستخراج البيانات من مواقع الويب تلقائياً باستخدام برامج مخصصة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 164,
+    "question": "What is web scraping?",
+    "answer": "Web scraping is a technique used to automatically extract data from websites using specialized software.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 165,
+    "question": "ما هو تعلم الآلة؟",
+    "answer": "تعلم الآلة هو فرع من الذكاء الاصطناعي يسمح للأنظمة بالتعلم من البيانات وتحسين الأداء بدون برمجة صريحة.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 166,
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a branch of artificial intelligence that allows systems to learn from data and improve performance without explicit programming.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 167,
+    "question": "ما هو الذكاء الاصطناعي؟",
+    "answer": "الذكاء الاصطناعي هو مجال علوم الكمبيوتر الذي يهدف إلى إنشاء أنظمة قادرة على أداء المهام التي تتطلب ذكاءً بشرياً.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 168,
+    "question": "What is artificial intelligence?",
+    "answer": "Artificial intelligence is the computer science field that aims to create systems capable of performing tasks that require human intelligence.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 169,
+    "question": "ما هو معالجة اللغة الطبيعية؟",
+    "answer": "معالجة اللغة الطبيعية هي فرع من الذكاء الاصطناعي يركز على تفاعل الكمبيوتر مع اللغة البشرية.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 170,
+    "question": "What is natural language processing?",
+    "answer": "Natural language processing is a branch of artificial intelligence that focuses on computer interaction with human language.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 171,
+    "question": "ما هو الرؤية الحاسوبية؟",
+    "answer": "الرؤية الحاسوبية هي مجال يهدف إلى تمكين أجهزة الكمبيوتر من تفسير وفهم العالم المرئي.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 172,
+    "question": "What is computer vision?",
+    "answer": "Computer vision is a field that aims to enable computers to interpret and understand the visual world.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 173,
+    "question": "ما هو الروبوتات؟",
+    "answer": "الروبوتات هي مجال متعدد التخصصات يجمع بين الهندسة الميكانيكية والكهربائية وعلوم الكمبيوتر لتصميم وبناء الروبوتات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 174,
+    "question": "What is robotics?",
+    "answer": "Robotics is an interdisciplinary field that combines mechanical engineering, electrical engineering, and computer science to design and build robots.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 175,
+    "question": "ما هو إنترنت الأشياء؟",
+    "answer": "إنترنت الأشياء هو مفهوم يشير إلى شبكة من الأجهزة المادية المدمجة مع أجهزة استشعار وبرامج للاتصال وتبادل البيانات.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 176,
+    "question": "What is Internet of Things?",
+    "answer": "Internet of Things is a concept referring to a network of physical devices embedded with sensors and software to communicate and exchange data.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 177,
+    "question": "ما هو البلوك تشين؟",
+    "answer": "البلوك تشين هو تقنية دفتر أستاذ موزع تسجل المعاملات بطريقة آمنة وشفافة ولا مركزية.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 178,
+    "question": "What is blockchain?",
+    "answer": "Blockchain is a distributed ledger technology that records transactions in a secure, transparent, and decentralized manner.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 179,
+    "question": "ما هو التطبيق الذكي؟",
+    "answer": "التطبيق الذكي هو تطبيق مصمم للعمل على الأجهزة المحمولة مثل الهواتف الذكية والأجهزة اللوحية.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 180,
+    "question": "What is a mobile app?",
+    "answer": "A mobile app is an application designed to work on mobile devices such as smartphones and tablets.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 181,
+    "question": "ما هو التطبيق الويب؟",
+    "answer": "التطبيق الويب هو تطبيق يمكن الوصول إليه عبر متصفح الويب ويعمل على الخادم البعيد.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 182,
+    "question": "What is a web application?",
+    "answer": "A web application is an application accessible through a web browser that runs on a remote server.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 183,
+    "question": "ما هو التطبيق الهجين؟",
+    "answer": "التطبيق الهجين هو تطبيق يجمع بين عناصر التطبيقات الأصلية وتطبيقات الويب.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 184,
+    "question": "What is a hybrid app?",
+    "answer": "A hybrid app is an application that combines elements of native apps and web applications.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 185,
+    "question": "ما هو React؟",
+    "answer": "React هي مكتبة جافا سكريبت مفتوحة المصدر developed by فيسبوك لبناء واجهات المستخدم.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 186,
+    "question": "What is React?",
+    "answer": "React is an open-source JavaScript library developed by Facebook for building user interfaces.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 187,
+    "question": "ما هو Angular؟",
+    "answer": "Angular هو إطار عمل لتطبيقات الويب مفتوح المصدر developed by جوجل.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 188,
+    "question": "What is Angular?",
+    "answer": "Angular is an open-source web application framework developed by Google.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 189,
+    "question": "ما هو Vue.js؟",
+    "answer": "Vue.js هو إطار عمل تقدمي لجافا سكريبت لبناء واجهات المستخدم.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 190,
+    "question": "What is Vue.js?",
+    "answer": "Vue.js is a progressive JavaScript framework for building user interfaces.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 191,
+    "question": "ما هو Node.js؟",
+    "answer": "Node.js هو بيئة تشغيل جافا سكريبت تسمح بتنفيذ كود جافا سكريبت خارج المتصفح.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 192,
+    "question": "What is Node.js?",
+    "answer": "Node.js is a JavaScript runtime environment that allows executing JavaScript code outside the browser.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 193,
+    "question": "ما هو Django؟",
+    "answer": "Django هو إطار عمل ويب عالي المستوى للغة Python يشجع على التطوير السريع والتصميم النظيف.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 194,
+    "question": "What is Django?",
+    "answer": "Django is a high-level Python web framework that encourages rapid development and clean design.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 195,
+    "question": "ما هو Flask؟",
+    "answer": "Flask هو إطار عمل ويب خفيف الوزن للغة Python.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 196,
+    "question": "What is Flask?",
+    "answer": "Flask is a lightweight web framework for Python.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 197,
+    "question": "ما هو Spring؟",
+    "answer": "Spring هو إطار عمل لتطبيقات Java يوفر بنية شاملة للتنمية تطبيقات Java المؤسسية.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 198,
+    "question": "What is Spring?",
+    "answer": "Spring is a Java application framework that provides a comprehensive infrastructure for developing Java enterprise applications.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 199,
+    "question": "ما هو .NET؟",
+    "answer": ".NET هو إطار عمل لتطوير البرمجيات created by Microsoft.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  },
+  {
+    "id": 200,
+    "question": "What is .NET?",
+    "answer": ".NET is a software development framework created by Microsoft.",
+    "timestamp": "01/11/2025 04:19:49 PM"
+  }
+]
